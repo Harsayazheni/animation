@@ -310,6 +310,11 @@ In zoom.xml
 </set>
 ```
 ## OUTPUT
+![Screenshot_20240502_081632](https://github.com/Harsayazheni/animation/assets/118708467/497f3ed7-796f-4ea4-9164-cc05f8db9dd0)
+![Screenshot_20240502_081651](https://github.com/Harsayazheni/animation/assets/118708467/b054cddf-671a-4861-9c61-6b186f1b0f74)
+![Screenshot_20240502_081658](https://github.com/Harsayazheni/animation/assets/118708467/7f69b06f-ff6f-4c78-85dc-fa1c038d6528)
+![Screenshot_20240502_082309](https://github.com/Harsayazheni/animation/assets/118708467/cfb51386-7a35-449d-9a85-9301ad6468dd)
+![Screenshot_20240502_082405](https://github.com/Harsayazheni/animation/assets/118708467/06383bab-571e-47fc-b935-616a96097117)
 
 
 
